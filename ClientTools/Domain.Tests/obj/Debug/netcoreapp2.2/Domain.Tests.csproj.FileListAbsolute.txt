@@ -1,0 +1,17 @@
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.Tests.deps.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.Tests.runtimeconfig.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.Tests.runtimeconfig.dev.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.Tests.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.Tests.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.csprojAssemblyReference.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.AssemblyInfoInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.AssemblyInfo.cs
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.csproj.CopyComplete
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain.Tests\obj\Debug\netcoreapp2.2\Domain.Tests.pdb

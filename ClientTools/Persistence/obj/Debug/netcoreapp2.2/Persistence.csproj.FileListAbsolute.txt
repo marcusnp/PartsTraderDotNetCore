@@ -1,0 +1,12 @@
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\bin\Debug\netcoreapp2.2\Persistence.deps.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\bin\Debug\netcoreapp2.2\Persistence.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.csproj.CoreCompileInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfoInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfo.cs
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.csprojAssemblyReference.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Persistence\obj\Debug\netcoreapp2.2\Persistence.csproj.CopyComplete

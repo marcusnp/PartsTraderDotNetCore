@@ -1,0 +1,8 @@
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

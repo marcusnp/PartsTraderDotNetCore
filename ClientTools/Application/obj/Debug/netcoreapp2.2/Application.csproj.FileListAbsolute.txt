@@ -1,0 +1,14 @@
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Persistence.dll
+C:\Exercicios\CleanArchitecture\PartsTrader\ClientTools\Application\bin\Debug\netcoreapp2.2\Persistence.pdb
